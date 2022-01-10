@@ -1,0 +1,16 @@
+********************************************************************
+
+
+A bot is a software application that is programmed to do certain tasks. 
+Bots are automated, which means they run according to their instructions without a human user needing to manually start them up every time. 
+Bots often imitate or replace a human user's behavior. 
+Typically they do repetitive tasks, and they can do them much faster than human users could.
+
+
+********************************************************************
+
+Chatbots: Bots that simulate human conversation by responding to certain phrases with programmed responses
+Web crawlers (Googlebots): Bots that scan content on webpages all over the Internet
+Social bots: Bots that operate on social media platforms
+Malicious bots: Bots that scrape content, spread spam content, or carry out credential stuffing attacks
+
